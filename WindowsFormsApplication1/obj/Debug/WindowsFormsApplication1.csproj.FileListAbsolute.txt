@@ -1,0 +1,94 @@
+E:\ProyectosPrueba\MVC\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\ProyectosPrueba\MVC\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.resources
+E:\ProyectosPrueba\MVC\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Screem.resources
+E:\ProyectosPrueba\MVC\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\ProyectosPrueba\MVC\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\ProyectosPrueba\MVC\Ejemplo003\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\ProyectosPrueba\MVC\Ejemplo003\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\ProyectosPrueba\MVC\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\ProyectosPrueba\MVC\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\ProyectosPrueba\MVC\Ejemplo003\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\ProyectosPrueba\MVC\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmCapacidadProduccion.resources
+E:\ProyectosPrueba\MVC\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMes.resources
+E:\ProyectosPrueba\MVC\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmTipoTela.resources
+E:\ProyectosPrueba\MVC\Ejemplo003\WindowsFormsApplication1\bin\Debug\Bussines.dll
+E:\ProyectosPrueba\MVC\Ejemplo003\WindowsFormsApplication1\bin\Debug\Entidades.dll
+E:\ProyectosPrueba\MVC\Ejemplo003\WindowsFormsApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\ProyectosPrueba\MVC\Ejemplo003\WindowsFormsApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\ProyectosPrueba\MVC\Ejemplo003\WindowsFormsApplication1\bin\Debug\Oracle.DataAccess.dll
+E:\ProyectosPrueba\MVC\Ejemplo003\WindowsFormsApplication1\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\ProyectosPrueba\MVC\Ejemplo003\WindowsFormsApplication1\bin\Debug\Entidades.pdb
+E:\ProyectosPrueba\MVC\Ejemplo003\WindowsFormsApplication1\bin\Debug\Bussines.pdb
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\bin\Debug\Bussines.dll
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\bin\Debug\Entidades.dll
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\bin\Debug\Oracle.DataAccess.dll
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\bin\Debug\Entidades.pdb
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\bin\Debug\Bussines.pdb
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmCapacidadProduccion.resources
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMes.resources
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmTipoTela.resources
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Screem.resources
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmListadoTipoTela.resources
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmDemanda.resources
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmListadoCapacidadAlmacenamiento.resources
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmListadoCapacidadPlanta.resources
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmListadoCostoAlmacenamiento.resources
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmListadoCostoEmbalaje.resources
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmListadoCostoMateriaPrima.resources
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmListadoCostoProduccion.resources
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmListadoDemanda.resources
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmListadoMeses.resources
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmCapacidadAlmacenamiento.resources
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\bin\Debug\Bussines.dll
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\bin\Debug\Entidades.dll
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\bin\Debug\Entidades.pdb
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\bin\Debug\Bussines.pdb
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmCapacidadAlmacenamiento.resources
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmCapacidadProduccion.resources
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmDemanda.resources
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmGenerarLingo.resources
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmInicio.resources
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmListadoCapacidadAlmacenamiento.resources
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmListadoCapacidadPlanta.resources
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmListadoCostoAlmacenamiento.resources
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmListadoCostoEmbalaje.resources
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmListadoCostoMateriaPrima.resources
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmListadoCostoProduccion.resources
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmListadoDemanda.resources
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmListadoMeses.resources
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmListadoTipoTela.resources
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMes.resources
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmReporteLingo.resources
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FrmTipoTela.resources
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Screem.resources
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

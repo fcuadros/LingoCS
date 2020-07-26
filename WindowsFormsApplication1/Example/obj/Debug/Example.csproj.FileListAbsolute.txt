@@ -1,0 +1,5 @@
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\Example\bin\Debug\Example.exe.config
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\Example\bin\Debug\Example.exe
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\Example\bin\Debug\Example.pdb
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\Example\obj\Debug\Example.exe
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\Example\obj\Debug\Example.pdb

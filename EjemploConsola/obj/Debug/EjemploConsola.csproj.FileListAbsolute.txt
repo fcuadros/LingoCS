@@ -1,0 +1,5 @@
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\EjemploConsola\bin\Debug\EjemploConsola.exe.config
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\EjemploConsola\bin\Debug\EjemploConsola.exe
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\EjemploConsola\bin\Debug\EjemploConsola.pdb
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\EjemploConsola\obj\Debug\EjemploConsola.exe
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\EjemploConsola\obj\Debug\EjemploConsola.pdb

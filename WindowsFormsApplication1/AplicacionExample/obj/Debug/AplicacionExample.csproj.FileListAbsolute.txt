@@ -1,0 +1,9 @@
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\AplicacionExample\bin\Debug\AplicacionExample.exe.config
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\AplicacionExample\bin\Debug\AplicacionExample.exe
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\AplicacionExample\bin\Debug\AplicacionExample.pdb
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\AplicacionExample\obj\Debug\AplicacionExample.csprojResolveAssemblyReference.cache
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\AplicacionExample\obj\Debug\AplicacionExample.Form1.resources
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\AplicacionExample\obj\Debug\AplicacionExample.Properties.Resources.resources
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\AplicacionExample\obj\Debug\AplicacionExample.csproj.GenerateResource.Cache
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\AplicacionExample\obj\Debug\AplicacionExample.exe
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\AplicacionExample\obj\Debug\AplicacionExample.pdb

@@ -1,0 +1,38 @@
+E:\ProyectosPrueba\MVC\Ejemplo003\WindowsFormsApplication1\Bussines\obj\Debug\Bussines.csprojResolveAssemblyReference.cache
+E:\ProyectosPrueba\MVC\Ejemplo003\WindowsFormsApplication1\Bussines\bin\Debug\Bussines.dll
+E:\ProyectosPrueba\MVC\Ejemplo003\WindowsFormsApplication1\Bussines\bin\Debug\Bussines.pdb
+E:\ProyectosPrueba\MVC\Ejemplo003\WindowsFormsApplication1\Bussines\bin\Debug\Entidades.dll
+E:\ProyectosPrueba\MVC\Ejemplo003\WindowsFormsApplication1\Bussines\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\ProyectosPrueba\MVC\Ejemplo003\WindowsFormsApplication1\Bussines\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\ProyectosPrueba\MVC\Ejemplo003\WindowsFormsApplication1\Bussines\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\ProyectosPrueba\MVC\Ejemplo003\WindowsFormsApplication1\Bussines\bin\Debug\Oracle.DataAccess.dll
+E:\ProyectosPrueba\MVC\Ejemplo003\WindowsFormsApplication1\Bussines\bin\Debug\Entidades.pdb
+E:\ProyectosPrueba\MVC\Ejemplo003\WindowsFormsApplication1\Bussines\obj\Debug\Bussines.dll
+E:\ProyectosPrueba\MVC\Ejemplo003\WindowsFormsApplication1\Bussines\obj\Debug\Bussines.pdb
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\Bussines\obj\Debug\Bussines.csprojResolveAssemblyReference.cache
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\Bussines\obj\Debug\Bussines.dll
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\Bussines\obj\Debug\Bussines.pdb
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\Bussines\bin\Debug\Bussines.dll
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\Bussines\bin\Debug\Bussines.pdb
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\Bussines\bin\Debug\Entidades.dll
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\Bussines\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\Bussines\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\Bussines\bin\Debug\Oracle.DataAccess.dll
+E:\27_UPC\7moCiclo\OIP\Proyecto\Ejemplo003\Ejemplo003\WindowsFormsApplication1\Bussines\bin\Debug\Entidades.pdb
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\Bussines\bin\Debug\Bussines.dll
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\Bussines\bin\Debug\Bussines.pdb
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\Bussines\bin\Debug\Entidades.dll
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\Bussines\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\Bussines\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\Bussines\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\Bussines\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\Bussines\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\Bussines\bin\Debug\Entidades.pdb
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\Bussines\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\Bussines\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\Bussines\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\Bussines\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\Bussines\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\Bussines\obj\Debug\Bussines.csprojResolveAssemblyReference.cache
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\Bussines\obj\Debug\Bussines.dll
+C:\Users\Gerson\Desktop\Proyecto IOP\Fuentes\Ejemplo003\WindowsFormsApplication1\Bussines\obj\Debug\Bussines.pdb

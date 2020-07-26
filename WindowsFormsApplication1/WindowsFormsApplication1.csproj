@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1DF95AE0-D72D-4E32-B69C-494DCE55D697}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication1</RootNamespace>
+    <AssemblyName>WindowsFormsApplication1</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="FrmCapacidadAlmacenamiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCapacidadAlmacenamiento.Designer.cs">
+      <DependentUpon>FrmCapacidadAlmacenamiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCapacidadProduccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCapacidadProduccion.Designer.cs">
+      <DependentUpon>FrmCapacidadProduccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDemanda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDemanda.Designer.cs">
+      <DependentUpon>frmDemanda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGenerarLingo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGenerarLingo.Designer.cs">
+      <DependentUpon>FrmGenerarLingo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmInicio.Designer.cs">
+      <DependentUpon>FrmInicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmListadoCapacidadAlmacenamiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListadoCapacidadAlmacenamiento.Designer.cs">
+      <DependentUpon>FrmListadoCapacidadAlmacenamiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmListadoCapacidadPlanta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListadoCapacidadPlanta.Designer.cs">
+      <DependentUpon>FrmListadoCapacidadPlanta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmListadoCostoAlmacenamiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListadoCostoAlmacenamiento.Designer.cs">
+      <DependentUpon>FrmListadoCostoAlmacenamiento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmListadoCostoEmbalaje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListadoCostoEmbalaje.Designer.cs">
+      <DependentUpon>FrmListadoCostoEmbalaje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmListadoCostoMateriaPrima.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListadoCostoMateriaPrima.Designer.cs">
+      <DependentUpon>FrmListadoCostoMateriaPrima.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmListadoCostoProduccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListadoCostoProduccion.Designer.cs">
+      <DependentUpon>FrmListadoCostoProduccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmListadoDemanda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListadoDemanda.Designer.cs">
+      <DependentUpon>FrmListadoDemanda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmListadoMeses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListadoMeses.Designer.cs">
+      <DependentUpon>FrmListadoMeses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmListadoTipoTela.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListadoTipoTela.Designer.cs">
+      <DependentUpon>FrmListadoTipoTela.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMes.Designer.cs">
+      <DependentUpon>frmMes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReporteLingo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReporteLingo.Designer.cs">
+      <DependentUpon>FrmReporteLingo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTipoTela.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTipoTela.Designer.cs">
+      <DependentUpon>FrmTipoTela.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProcesoLingo\Lingd64_16.cs" />
+    <Compile Include="Screem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screem.Designer.cs">
+      <DependentUpon>Screem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmCapacidadAlmacenamiento.resx">
+      <DependentUpon>FrmCapacidadAlmacenamiento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCapacidadProduccion.resx">
+      <DependentUpon>FrmCapacidadProduccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDemanda.resx">
+      <DependentUpon>frmDemanda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGenerarLingo.resx">
+      <DependentUpon>FrmGenerarLingo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmInicio.resx">
+      <DependentUpon>FrmInicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListadoCapacidadAlmacenamiento.resx">
+      <DependentUpon>FrmListadoCapacidadAlmacenamiento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListadoCapacidadPlanta.resx">
+      <DependentUpon>FrmListadoCapacidadPlanta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListadoCostoAlmacenamiento.resx">
+      <DependentUpon>FrmListadoCostoAlmacenamiento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListadoCostoEmbalaje.resx">
+      <DependentUpon>FrmListadoCostoEmbalaje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListadoCostoMateriaPrima.resx">
+      <DependentUpon>FrmListadoCostoMateriaPrima.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListadoCostoProduccion.resx">
+      <DependentUpon>FrmListadoCostoProduccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListadoDemanda.resx">
+      <DependentUpon>FrmListadoDemanda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListadoMeses.resx">
+      <DependentUpon>FrmListadoMeses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListadoTipoTela.resx">
+      <DependentUpon>FrmListadoTipoTela.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMes.resx">
+      <DependentUpon>frmMes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReporteLingo.resx">
+      <DependentUpon>FrmReporteLingo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTipoTela.resx">
+      <DependentUpon>FrmTipoTela.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Screem.resx">
+      <DependentUpon>Screem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\screem.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{5d6d5a0e-9748-463d-88ec-9f6f4c195150}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="Bussines\Bussines.csproj">
+      <Project>{94033fd0-eb3f-4e00-a4a4-79c1a978e5b5}</Project>
+      <Name>Bussines</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\Logo.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
